@@ -14,7 +14,7 @@ Enunciado:
  2. Instale um proxy HTTP na sua máquina e verifique as mensagens enviadas/recebidas quando a sua aplicação acessa algum dos recursos implementados no Web Service. 
 
 
-Resultados:
+# Resultados:
 
 - Linguagem utilizada: .NET Core 3.1
 - IDE: Visual Studio 2019
